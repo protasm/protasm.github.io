@@ -1,5 +1,1 @@
-## Welcome to GitHub Pages
-
-{} \{\{\{\}\}\}
-
-Looking for the [LPC90 Language Specification][https://protasm.github.io/LPC90]?
+LPC90 is a language specification for the LPC programming language as it existed around 1990.
